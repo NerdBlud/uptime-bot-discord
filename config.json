@@ -1,0 +1,8 @@
+{
+    "prefix": "!",
+    "bot_name": "YOUR_BOT_NAME",
+    "owner_id": "YOUR_DISCORD_ID",
+    "blacklist_role_id": "SERVER_BLACKLIST_ROLE_ID",
+    "whitelist_role_id": "SERVER_WHITELIST_ROLE_ID",
+    "vip_role_id": "SERVER_V_I_P_ROLE_ID"
+}
